@@ -2,7 +2,7 @@
 ### "一定会找到伤的源头的"
 ### "人世间，流浪人归，亦若回流川，不要小瞧人生啊"
 
-![me](https://khahux.com/static/me.jpg?v=28c011c364a9537d5fbd0d85bff9d553)
+<img src="https://khahux.com/static/me.jpg" alt="me" width="200" height="200" align="bottom" />
 
 <!--
 **khahux/khahux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
