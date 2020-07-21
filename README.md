@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-"人生如尼罗河沉浮，不要轻视人生啊"
-"一定会找到伤的源头的"
-"人世间，流浪人归，亦若回流川，不要小瞧人生啊"
+### "人生如尼罗河沉浮，不要轻视人生啊"
+### "一定会找到伤的源头的"
+### "人世间，流浪人归，亦若回流川，不要小瞧人生啊"
 
 <!--
 **khahux/khahux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
