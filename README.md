@@ -1,6 +1,6 @@
-### 人生如尼罗河沉浮，不要轻视人生啊
+### 人生如尼罗河沉浮，不要轻视人生啊。
 
-<img src="https://khahux.com/static/me.jpg" alt="me" width="300" height="300" align="bottom" />
+<img src="https://khahux.com/static/me.jpg" alt="Me" width="300" height="300" align="bottom" />
 
 <!--
 **khahux/khahux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
